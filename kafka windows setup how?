@@ -1,0 +1,39 @@
+Download and Extract Apache Kafka from here.
+At the time of writing the current stable version is 0.10.1.1.
+Prerequisite
+Install JRE.
+Install and Configure Apache Zookeeper.
+Setting up Apache Kafka
+Go to config folder in Apache Kafka and edit “server.properties” using any text editor.
+Find log.dirs and repelace after “=/tmp/kafka-logs” to “=C:\\Tools\\kafka_2.10–0.10.1.1\\kafka-logs” (change your version number).
+Leave other setting as is. If your Apache Zookeeper on different server then change the “zookeeper.connect” property.
+By default Apache Kafka will run on port 9092 and Apache Zookeeper will run on port 2181.
+Running Apache Kafka
+Open command prompt and go to your Apache Kafka directory and run following command.
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+Apache Kafka running on Command Prompt
+You are good to go, your Apache Kafka is up and running on port 9092.
+Creating Topics, Consumer and Producer in Apache Kafka
+Creating Topic
+Open command prompt and go to Apache Kafka installation directory.
+Go to \bin\windows directory.
+Run the following command.
+kafka-topics.bat — create — zookeeper localhost:2181 — replication-factor 1 — partitions 1 — topic sql-insert
+You will see the output.
+
+Created topic “sql-insert”.
+Creating Consumer & Producer
+Open a command prompt and go to Apache Kafka installation directory.
+Go to \bin\windows directory.
+Run the following command to start a producer.
+kafka-console-producer.bat — broker-list localhost:9092 — topic sql-insert
+The broker-list parameter specifies the brokers to be connected as <node_address:port> — that is, localhost:9092.
+Again Open a command prompt and go to Apache Kafka installation directory.
+Go to \bin\windows directory.
+Run the following command to start a consumer.
+kafka-console-consumer.bat -bootstrap-server localhost:2181 -topic sql-insert
+
+Producer & Consumer running on Command Prompt
+By running all four components (zookeeper, broker, producer, and consumer) in different terminals, you will be able to enter messages from the producer’s terminal and see them appearing in the subscribed consumer’s terminal. If everything works fine, you will be able to push and see messages.
+Congratulation! Your Apache Kafka setup is complete.
