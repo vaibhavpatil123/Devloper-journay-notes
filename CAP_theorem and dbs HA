@@ -1,0 +1,17 @@
+Consistency: Every read receives the most recent write or an error
+Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write
+Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
+
+https://en.wikipedia.org/wiki/CAP_theorem
+
+
+https://www.arangodb.com/2017/01/reaching-harnessing-consensus-arangodb/
+
+
+https://www.youtube.com/watch?v=iKQhPwbzzxU
+
+
+https://www.slideshare.net/harisankarh/google-spanner-our-understanding-of-concepts-and-implications
+
+
+https://stackoverflow.com/questions/59243408/why-does-google-spanner-use-both-two-phase-commit-and-paxos
