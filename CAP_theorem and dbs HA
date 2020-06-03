@@ -15,3 +15,6 @@ https://www.slideshare.net/harisankarh/google-spanner-our-understanding-of-conce
 
 
 https://stackoverflow.com/questions/59243408/why-does-google-spanner-use-both-two-phase-commit-and-paxos
+
+Google cound spanner internals
+https://thedataguy.in/internals-of-google-cloud-spanner/
