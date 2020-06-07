@@ -22,3 +22,7 @@ When you run your Beam driver program, the Pipeline Runner that you designate co
 
 
 https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline
+
+GOOD ONE windowing .....................
+https://cloud.google.com/dataflow/docs/concepts/streaming-pipelines
+
