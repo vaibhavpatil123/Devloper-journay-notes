@@ -1,0 +1,13 @@
+ Error: Node Sass does not yet support your current environment: Windows 64-bit with Unsupported runtime (83)
+ 
+ How to fix on windows 10 ?
+ 
+Solution that works for me 
+
+npm --version
+6.14.5
+
+npm install --global --production windows-build-tools
+
+npm install --msvs_version=2015
+
