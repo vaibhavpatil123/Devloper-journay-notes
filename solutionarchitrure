@@ -1,0 +1,5 @@
+coupling-and-cohesion
+
+Cohesion: Cohesion is a measure of the degree to which the elements of the module are functionally related. It is the degree to which all elements directed towards performing a single task are contained in the component. Basically, cohesion is the internal glue that keeps the module together. A good software design will have high cohesion.
+
+Coupling: Coupling is the measure of the degree of interdependence between the modules. A good software will have low coupling.
