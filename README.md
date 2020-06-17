@@ -4,7 +4,7 @@ mydevnotes-can-help-you
 Quick referance examples and links 
 
 
-Make architecture decisions
+Make architecture decisions /n
 Continually analyze the architecture
 Keep current with latest trends
 Ensure compliance with decisions
