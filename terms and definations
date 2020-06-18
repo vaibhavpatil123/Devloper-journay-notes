@@ -1,2 +1,9 @@
 A shared-nothing architecture (SN) is a distributed-computing architecture in which each update request is satisfied by a single node (processor/memory/storage unit). The intent is to eliminate contention among nodes. Nodes do not share (independently access) memory or storage. One alternative architecture is shared everything, in which requests are satisfied by arbitrary combinations of nodes. This may introduce contention, as multiple nodes may seek to update the same data at the same time.
 
+Trusted Platform Module, or TPM
+
+
+https://en.wikipedia.org/wiki/Total_cost_of_ownership
+
+https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+
