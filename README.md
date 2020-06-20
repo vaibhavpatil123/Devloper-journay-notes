@@ -5,7 +5,7 @@ Quick referance examples and links
 
 
 
-
+--------------------------------------------
 
 Make architecture decisions
 
@@ -22,3 +22,4 @@ Have business domain knowledge
 Possess interpersonal skills
 
 Understand and navigate politics
+--------------------------------------------
