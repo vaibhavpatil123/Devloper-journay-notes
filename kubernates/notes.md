@@ -1,4 +1,5 @@
 
+# https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams
 # https://www.cncf.io/wp-content/uploads/2020/04/2020_04_Introduction-to-Kubernetes-RBAC.pdf
 
 
