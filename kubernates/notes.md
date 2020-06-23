@@ -24,3 +24,9 @@ rules:
   verbs: ["get", "watch", "list"]
   
 ''''
+
+TLS CSR 
+
+https://thenewstack.io/a-practical-approach-to-understanding-kubernetes-authentication/
+
+https://github.com/JulienBalestra/kube-csr
