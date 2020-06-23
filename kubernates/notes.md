@@ -1,3 +1,7 @@
+
+# https://www.cncf.io/wp-content/uploads/2020/04/2020_04_Introduction-to-Kubernetes-RBAC.pdf
+
+
 kubernetes-daemonsets
 
 https://medium.com/kubernetes-tutorials/a-guide-to-kubernetes-daemonsets-6db7920ad140
