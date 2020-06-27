@@ -11,7 +11,9 @@ https://www.youtube.com/watch?v=eQ4-XIngrDY
 
 https://www.youtube.com/watch?v=eQ4-XIngrDY
 
+FQAs question and answers 
 
+https://www.youtube.com/watch?list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&v=iNJe_NrbijM&feature=emb_title
 
 ------------
 https://awesomeopensource.com/project/Leverege/gcp-data-engineer-exam
