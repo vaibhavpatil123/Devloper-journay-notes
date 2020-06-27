@@ -39,7 +39,7 @@ It is the most important topic and includes everything about Google Cloud Networ
 # Storage
  You must have a clear understanding of different storage options available in Google Cloud and when to use them. Check this link for more information.
 
-#Compute
+# Compute
 This includes App Engine, Compute Engine, and Kubernetes. You need to learn deployment, versioning, and rollback in App Engine. In Kubernetes, you must learn docker files — how to build docker files, different type of docker file and what are the different components of Kubernetes cluster (pod, node, services, load balancing, exposing services to the outside world). You must have a clear understanding of the different components of this construct’s yaml file.
 
 # Deployment  
