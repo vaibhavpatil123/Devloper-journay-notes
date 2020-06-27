@@ -51,3 +51,13 @@ You should be aware of Stackdriver stack i.e. monitoring, logging, tracing, debu
 
 # Security
 This includes working with IAM Roles, Firewall settings, and others. There are some roles or permission which are specific. You must have a clear understanding of the different roles that IAM provides.
+
+
+
+
+- Comany X has deployed an application using App Engine. They want to release a new version of that application to production. They want to test that application on only a set of users. What is the most appropriate solution?
+
+https://cloud.google.com/appengine/docs/standard/python/splitting-traffic
+
+When you have specified two or more versions for splitting, you must choose whether to split traffic by using either an IP address or HTTP cookie. It's easier to set up an IP address split, but a cookie split is more precise.
+
