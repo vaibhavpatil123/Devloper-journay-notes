@@ -63,3 +63,20 @@ https://cloud.google.com/appengine/docs/standard/python/splitting-traffic
 
 When you have specified two or more versions for splitting, you must choose whether to split traffic by using either an IP address or HTTP cookie. It's easier to set up an IP address split, but a cookie split is more precise.
 
+
+
+https://cloud.google.com/hybrid-connectivity/ - on primise 
+
+https://cloud.google.com/vpc/docs/vpc - check mode types
+https://cloud.google.com/vpc/docs/vpc#subnet-ranges
+https://cloud.google.com/network-connectivity/docs/router/concepts/overview -networking
+
+https://cloud.google.com/blog/products/gcp/how-release-canaries-can-save-your-bacon-cre-life-lessons?hl=de -deployment 
+
+https://cloud.google.com/vpc/docs/firewalls - security 
+
+https://cloud.google.com/appengine/docs/flexible/  dev envrionment 
+App Engine allows developers to focus on what they do best: writing code.
+https://cloud.google.com/iam/docs/service-accounts - types of service accounts 
+
+
