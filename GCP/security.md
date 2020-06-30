@@ -18,3 +18,7 @@ The Center for Internet Security (CIS) releases benchmarks for best practice sec
 
 # IAP
 https://www.youtube.com/watch?v=e1Y7NDLSHfI
+
+
+# Basic web security 
+https://www.educative.io/courses/web-application-security-everyday-software-engineer?utm_source=activecampaign&utm_medium=email&utm_campaign=web-application-security-everyday-software-engineer
