@@ -1,3 +1,6 @@
+# 
+https://gregsramblings.com/blog/keeping-up-with-google-cloud-news/
+
 Cloud storage  :
 -Storage classes
  - Requester Pays: billing config consumer need to changeges
