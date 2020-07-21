@@ -2,3 +2,6 @@
 
 
 https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/#pinpointing-problematic-shards
+
+
+### https://codingexplained.com/coding/elasticsearch/understanding-sharding-in-elasticsearch
