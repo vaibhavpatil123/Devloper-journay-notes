@@ -5,3 +5,9 @@ https://godoc.org/cloud.google.com/go/bigquery
 https://code.markedmondson.me/bigQueryR/query.html
 
 https://codelabs.developers.google.com/codelabs/cp100-big-query/
+
+
+
+HOW PARTION DATA WORKS 
+
+https://analyticsmayhem.com/
