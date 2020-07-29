@@ -28,3 +28,6 @@ Possess interpersonal skills
 
 Understand and navigate politics
 --------------------------------------------
+
+https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview @\https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/  https://github.com/shashank88/system_design#designques
+https://github.com/shashank88/system_design#company-engineering-blog-links-
