@@ -15,6 +15,7 @@ Make architecture decisions
 
 Continually analyze the architecture
 
+
 Keep current with latest trends
 
 Ensure compliance with decisions
