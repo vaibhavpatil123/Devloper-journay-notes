@@ -1,4 +1,4 @@
-# My Dev Notes can-help-you
+# My Dev Notes for you!
 Mydevnotes-can-help-you
 
 Quick referance examples and links 
