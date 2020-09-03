@@ -33,3 +33,20 @@ https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview @\https://
 https://github.com/shashank88/system_design#company-engineering-blog-links-
 
 https://chrisrichardson.net/post/microservices/2020/01/07/books-about-high-performance-software-delivery.html
+
+
+Recognize that you are on a plateau
+This is an important step that will help you build a strategy for future behavior.
+Take a break
+Take a break from learning. Sometimes you should pause to analyze what you have already learned, what you are doing best, and what areas that need your attention. 
+Remember to think about your goals
+Why do you need this skill? Perhaps the goal should be reformulated or adjusted. Remember that overcoming difficulties today leads to something important tomorrow.
+Plan your next step
+This will help you see the result faster and bring you closer to achieving your main goal.
+Try new learning techniques
+Change the format: for example, individual training instead of group training. And sometimes, it is enough to try to learn in a new environment, for instance, in a park or on your balcony.
+Interact with other people
+Talk to people who are learning the same skill. This will not only help you get support but also expand your knowledge.
+Practice as often as possible
+Nothing motivates us better than concrete results and small victories. So do not give up, practice, and run-through what you have learned until you feel confident. 
+
