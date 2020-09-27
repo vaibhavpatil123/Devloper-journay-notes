@@ -8,7 +8,13 @@ Quick referance examples and links
 “The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming.”
 
 
+------------------
 
+# Cloud top list !!! 
+https://www.container-solutions.com/learn-with-cs/resiliency
+https://kudo.dev/
+https://kubedex.com/helm-deployments/
+https://www.bmc.com/blogs/categories/aiops/
 --------------------------------------------
 
 Make architecture decisions
