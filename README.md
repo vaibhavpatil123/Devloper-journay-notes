@@ -16,7 +16,9 @@ https://kudo.dev/
 https://kubedex.com/helm-deployments/
 https://www.bmc.com/blogs/categories/aiops/
 --------------------------------------------
-
+``
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/PREWe7bY1bzGbRxwbHmkmD"></iframe>
+``
 Make architecture decisions
 
 Continually analyze the architecture
