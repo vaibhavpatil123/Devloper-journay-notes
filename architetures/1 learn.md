@@ -33,3 +33,7 @@ Learn a little bit of psychology and always be a student of human nature. Techno
 There is no 33 stop reading and start doing.
 Why are you still here? Fine, one more. Learn how to measure software delivery through the four key accelerate metrics.
 Ok fine, here’s a last one. Understand the Amazon Leadership Principles and try to catch yourself if you are applying it to your daily activities if you cannot find it or you are too afraid to do so. You are not applying it, its time to change for the better.
+
+
+
+https://medium.com/faun/33-things-i-learned-while-being-a-cloud-solution-architect-def544b11b4c
